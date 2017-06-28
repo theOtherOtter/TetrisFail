@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="Banner">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#ffe08040</item>
+        <item name="android:paddingLeft">4dp</item>
+        </style>
+
+    <style name="Scores">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#ffe08040</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>    
+
+</resources>
